@@ -15,6 +15,7 @@ buildNumber.properties
 
 **/.mvn
 **/target/
+**/README.md
 
 .idea
 
